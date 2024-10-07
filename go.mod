@@ -15,10 +15,10 @@ require (
 	github.com/joho/godotenv v1.5.1
 	github.com/jonboulle/clockwork v0.4.0
 	github.com/pkg/errors v0.9.1
-	github.com/vishvananda/netlink v1.2.1-beta.2
+	github.com/vishvananda/netlink v1.3.0
 	github.com/vishvananda/netns v0.0.4
 	go.uber.org/zap v1.17.0 // indirect
-	golang.org/x/net v0.28.0
+	golang.org/x/net v0.29.0
 	golang.org/x/oauth2 v0.22.0 // indirect
 	golang.org/x/time v0.6.0 // indirect
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173 // indirect
@@ -33,9 +33,9 @@ require (
 
 require (
 	github.com/avast/retry-go/v4 v4.6.0
-	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.995
-	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/vpc v1.0.995
-	sigs.k8s.io/knftables v0.0.16
+	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.1002
+	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/vpc v1.0.998
+	sigs.k8s.io/knftables v0.0.17
 )
 
 require (
@@ -109,17 +109,17 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	go.etcd.io/etcd/api/v3 v3.5.15
-	go.etcd.io/etcd/client/pkg/v3 v3.5.15
+	go.etcd.io/etcd/api/v3 v3.5.16
+	go.etcd.io/etcd/client/pkg/v3 v3.5.16
 	go.etcd.io/etcd/client/v3 v3.5.15
 	go.etcd.io/etcd/tests/v3 v3.5.15
 	go.opencensus.io v0.24.0 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
-	golang.org/x/crypto v0.26.0 // indirect
-	golang.org/x/sys v0.24.0 // indirect
-	golang.org/x/term v0.23.0 // indirect
-	golang.org/x/text v0.17.0 // indirect
+	golang.org/x/crypto v0.27.0 // indirect
+	golang.org/x/sys v0.25.0 // indirect
+	golang.org/x/term v0.24.0 // indirect
+	golang.org/x/text v0.18.0 // indirect
 	google.golang.org/grpc v1.66.0 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
